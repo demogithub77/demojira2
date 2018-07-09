@@ -1,6 +1,6 @@
 Feature: first requirement
 
-  @ORPHAN
+  @ORPHAN @MANUAL
   Scenario: first scenario
 
   @ORPHAN
