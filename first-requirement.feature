@@ -1,6 +1,6 @@
 Feature: first requirement
 
-  @ORPHAN
+  @BDD-1 @OPEN
   Scenario: First scen
     Given ABC
     When DEF
